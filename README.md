@@ -1,0 +1,2 @@
+# Bacherlorarbeit_NLP
+Bachelorarbeit Carsten Bartelt Wirtschaftsinformatik
